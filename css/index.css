@@ -1,0 +1,81 @@
+
+
+
+
+
+html{
+    background-color: rgb(37, 128, 131);
+}
+
+main {
+    text-align : center;
+    width: 400%;
+    margin: 400px 0;
+    font-size: 300;
+    
+}
+        main{
+    width: 1000px;
+    margin: 150px;
+    max-width: 100%;
+     font-size: 130%;
+    background-color:white ;
+    justify-items: 1000;
+    border-radius: 20px;
+    
+    
+}
+
+       button {
+
+        background: #000000 ;
+        color: #dbdbdb;
+        font-weight: bold;
+        font-size: 90%;
+ 
+    width: 70%;
+    height: 40px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    border-radius: 20px;
+    
+   
+         }
+h1{
+    margin-left: 10%;
+    height: 20px;
+    text-align: left;
+    font-size: 90%;
+    
+}
+
+
+h2{
+    
+    text-align: left;
+    margin-left: 10%;
+    font-size: 90%;
+    height: 50px;
+}
+
+
+h5{
+ 
+    margin-left: 30%;
+    height: 220px;
+    font-size: 100%;
+    margin-top: 10px;
+}
+h6{
+    text-align: left;
+    margin-left: 10%;
+    height: 50px;
+}
+input{
+    width: 695px;
+     font-size: 120%;
+    background-color:#f8f2f2 ;
+    border-radius: 10px;
+
+}
